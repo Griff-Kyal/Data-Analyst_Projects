@@ -1,2 +1,2 @@
-# Data-Analyst_Projects
+# Data Analyst Projects
 Personal Data Analyst projects
